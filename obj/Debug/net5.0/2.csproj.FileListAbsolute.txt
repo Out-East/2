@@ -1,0 +1,16 @@
+C:\Users\Студент МПТ\source\repos\2\2\obj\Debug\net5.0\2.csprojAssemblyReference.cache
+C:\Users\Студент МПТ\source\repos\2\2\obj\Debug\net5.0\2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Студент МПТ\source\repos\2\2\obj\Debug\net5.0\2.AssemblyInfoInputs.cache
+C:\Users\Студент МПТ\source\repos\2\2\obj\Debug\net5.0\2.AssemblyInfo.cs
+C:\Users\Студент МПТ\source\repos\2\2\obj\Debug\net5.0\2.csproj.CoreCompileInputs.cache
+C:\Users\Студент МПТ\source\repos\2\2\bin\Debug\net5.0\2.exe
+C:\Users\Студент МПТ\source\repos\2\2\bin\Debug\net5.0\2.deps.json
+C:\Users\Студент МПТ\source\repos\2\2\bin\Debug\net5.0\2.runtimeconfig.json
+C:\Users\Студент МПТ\source\repos\2\2\bin\Debug\net5.0\2.runtimeconfig.dev.json
+C:\Users\Студент МПТ\source\repos\2\2\bin\Debug\net5.0\2.dll
+C:\Users\Студент МПТ\source\repos\2\2\bin\Debug\net5.0\ref\2.dll
+C:\Users\Студент МПТ\source\repos\2\2\bin\Debug\net5.0\2.pdb
+C:\Users\Студент МПТ\source\repos\2\2\obj\Debug\net5.0\2.dll
+C:\Users\Студент МПТ\source\repos\2\2\obj\Debug\net5.0\ref\2.dll
+C:\Users\Студент МПТ\source\repos\2\2\obj\Debug\net5.0\2.pdb
+C:\Users\Студент МПТ\source\repos\2\2\obj\Debug\net5.0\2.genruntimeconfig.cache
